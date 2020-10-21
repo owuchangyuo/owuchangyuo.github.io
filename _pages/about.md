@@ -14,6 +14,7 @@ redirect_from:
 
 # Recent News
 
+* October 21, 2020. One co-author paper for zipper tape defect detection has been accepted to Neurocomputing.
 * September 5, 2020. One paper for hyperspectral image restoration has been accepted to IEEE Trans. Geosci. Remote Sens.
 * August 9, 2020. One co-author paper for rain streak removal has been accepted to IEEE Trans. Neural Netw. Learn. Syst.
 * June 28, 2020. I have been granted with the China Postdoctoral Science Foundation "中国博士后科学基金".
