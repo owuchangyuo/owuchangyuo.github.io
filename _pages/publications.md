@@ -7,7 +7,7 @@ author_profile: true
 Yi Li, <b>Yi Chang</b>, Yuntong Ye, Xu Zou, Sheng Zhong, and Luxin Yan.
 <i>IEEE Signal Processing Letter</i>. <b>SPL 2020</b>.
 
-<b>[Automatic zipper tape defect detection using two-stage multi-scale convolutional networks](https://owuchangyuo.github.io/publications/SPC)</b> <br> 
+<b>[Automatic zipper tape defect detection using two-stage multi-scale convolutional network](https://owuchangyuo.github.io/publications/SPC)</b> <br> 
 Houzhang Fang, Mingjiang Xia, Hehui Liu, <b>Yi Chang</b>, Liming Wanga, Xiyang Liu.
 <i>Neurocomputing </i>. <b>2020</b>.
 
