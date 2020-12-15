@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 <b>[Category-Aware Aircraft Landmark Detection](https://owuchangyuo.github.io/publications/CALDN)</b> <br> 
-Yi Li, <b>Yi Chang</b>, Yuntong Ye, Xu Zou, Sheng Zhong, and Luxin Yan
+Yi Li, <b>Yi Chang</b>, Yuntong Ye, Xu Zou, Sheng Zhong, and Luxin Yan.
 <i>IEEE Signal Processing Letter</i>. <b>SPL 2020</b>.
 
 <b>[Automatic zipper tape defect detection using two-stage multi-scale convolutional networks](https://owuchangyuo.github.io/publications/SPC)</b> <br> 
