@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/TLR
 ---
 [[PDF]](https://owuchangyuo.github.io/files/TLR.pdf) 
-
+[[Codes]](https://owuchangyuo.github.io/files/TLR.rar)
 
 ## Abstract
 This paper addresses the problem of line pattern noise removal from a single image, such as rain streak, hyperspectral stripe and so on. Most of the previous methods model the line pattern noise in original image domain, which fail to explicitly exploit the directional characteristic, thus resulting in a redundant subspace with poor representation ability for those line pattern noise. To achieve a compact
