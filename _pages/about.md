@@ -14,7 +14,7 @@ redirect_from:
 
 # Recent News
 
-* December 15, 2020. The source codes of the ASSTV, LRSID, LLRT, TLR, DMRN have been uploaded. Latter, the source codes of HSI-DeNet, TSWEU, OLRT, SPC would be upload soon.
+* December 15, 2020. The source codes of the ASSTV, LRSID, LLRT, TLR, DMRN, OLRT have been uploaded. Latter, the source codes of HSI-DeNet, TSWEU, SPC would be upload soon.
 * December 3, 2020. One co-author paper for aircraft landmark detection has been accepted to IEEE Signal Processing Letter.
 * October 21, 2020. One co-author paper for zipper tape defect detection has been accepted to Neurocomputing.
 * September 5, 2020. One paper for hyperspectral image restoration has been accepted to IEEE Trans. Geosci. Remote Sens.
