@@ -14,6 +14,7 @@ redirect_from:
 
 # Recent News
 
+* Febuary 28, 2021. One paper for real rain removal has been accepted to IEEE Computer Vision and Pattern Recognition (CVPR).
 * December 15, 2020. The source codes of the ASSTV, LRSID, LLRT, TLR, DMRN, OLRT have been uploaded. Latter, the source codes of HSI-DeNet, TSWEU, SPC would be upload soon.
 * December 3, 2020. One co-author paper for aircraft landmark detection has been accepted to IEEE Signal Processing Letter.
 * October 21, 2020. One co-author paper for zipper tape defect detection has been accepted to Neurocomputing.
