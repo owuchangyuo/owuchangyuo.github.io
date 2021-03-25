@@ -3,6 +3,10 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com.hk/ci
 permalink: /publications/
 author_profile: true
 ---
+<b>[Closing the Loop: Joint Rain Generation and Removal via Disentangled Image Translation](https://owuchangyuo.github.io/publications/JRGR)</b> <br> 
+Yuntong Ye, <b>Yi Chang</b>\*,, Hanyu Zhou, and Luxin Yan.
+<i>IEEE Computer Vision and Pattern Recognition</i>. <b>CVPR 2021</b> (<i>Corresponding Author<i>).
+
 <b>[Category-Aware Aircraft Landmark Detection](https://owuchangyuo.github.io/publications/CALDN)</b> <br> 
 Yi Li, <b>Yi Chang</b>, Yuntong Ye, Xu Zou, Sheng Zhong, and Luxin Yan.
 <i>IEEE Signal Processing Letter</i>. <b>SPL 2020</b>.
@@ -48,8 +52,8 @@ Huimin Liu, <b>Yi Chang</b>, Ziqin Li, Sheng Zhong and Luxin Yan.
 <i>IEEE Geoscience and Remote Sensing Letter</i>. <b>GRSL 2019</b>. 
 
 <b>[A Coarse-to-Fine Method For Infrared Small Target Detection](https://owuchangyuo.github.io/publications/CTF)</b> <br>
-<b>Yi Chang</b>\*, Shoukui Yao\*, and Xiaojuan Qin.
-<i>IEEE Geoscience and Remote Sensing Letter</i>. <b>GRSL 2019</b>.
+<b>Yi Chang</b>\^, Shoukui Yao\^, and Xiaojuan Qin.
+<i>IEEE Geoscience and Remote Sensing Letter</i>. <b>GRSL 2019</b>(<i>Equal Contribution<i>).
 
 <b>[Destriping Remote Sensing Image via Low-Rank Approximation and Nonlocal Total Variation](https://owuchangyuo.github.io/publications/LRNTV)</b> <br>
 Wenfei Cao, <b>Yi Chang</b>, Guodong Han, and Junbing Li. 
@@ -92,10 +96,10 @@ Luxin Yan, Wenshan Liao, <b>Yi Chang</b>, Chunan Luo.
 <i>IEEE Geoscience and Remote Sensing Letter</i>. <b>GRSL 2014</b>. 
 
 <b>[Robust Destriping Method with Unidirectional Total Variation and Framelet Regularization](https://owuchangyuo.github.io/publications/UTVFR)</b><br>
-<b>Yi Chang</b>, Houzhang Fang, Luxin Yan, Hai Liu. <b>Optics Express 2013</b>. 
+<b>Yi Chang</b>\^, Houzhang Fang\^, Luxin Yan, Hai Liu. <b>Optics Express 2013</b>, (<i>Equal Contribution<i>). 
 
 <b>[Joint Blind Deblurrring and Destriping For Remote Sensing Image](https://owuchangyuo.github.io/publications/JBDD)</b> <br>
-<b>Yi Chang</b>\*, Houzhang Fang\*, Luxin Yan, Hai Liu.
+<b>Yi Chang</b>, Houzhang Fang, Luxin Yan, Hai Liu.
 <i>IEEE Conference on Image Processing</i>. <b>ICIP 2013</b>. <span style="color:red">(Oral)</span>
 
 <b>[Blind Poissonian Images Deconvolution with Framelet Regularization](https://owuchangyuo.github.io/publications/BIDFR)</b> <br>
