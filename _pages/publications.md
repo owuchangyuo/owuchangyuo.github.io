@@ -53,7 +53,7 @@ Huimin Liu, <b>Yi Chang</b>, Ziqin Li, Sheng Zhong and Luxin Yan.
 
 <b>[A Coarse-to-Fine Method For Infrared Small Target Detection](https://owuchangyuo.github.io/publications/CTF)</b> <br>
 <b>Yi Chang</b>\^, Shoukui Yao\^, and Xiaojuan Qin.
-<i>IEEE Geoscience and Remote Sensing Letter</i>. <b>GRSL 2019</b>(<i>Equal Contribution<i>).
+<i>IEEE Geoscience and Remote Sensing Letter</i>. <b>GRSL 2019</b> (<i>Equal Contribution<i>).
 
 <b>[Destriping Remote Sensing Image via Low-Rank Approximation and Nonlocal Total Variation](https://owuchangyuo.github.io/publications/LRNTV)</b> <br>
 Wenfei Cao, <b>Yi Chang</b>, Guodong Han, and Junbing Li. 
