@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 <b>[Closing the Loop: Joint Rain Generation and Removal via Disentangled Image Translation](https://owuchangyuo.github.io/publications/JRGR)</b> <br> 
-Yuntong Ye, <b>Yi Chang</b>\*,, Hanyu Zhou, and Luxin Yan.
+Yuntong Ye, <b>Yi Chang</b>\*, Hanyu Zhou, and Luxin Yan.
 <i>IEEE Computer Vision and Pattern Recognition</i>. <b>CVPR 2021</b> (<i>Corresponding Author<i>).
 
 <b>[Category-Aware Aircraft Landmark Detection](https://owuchangyuo.github.io/publications/CALDN)</b> <br> 
