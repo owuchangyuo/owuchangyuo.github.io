@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 <b>[Image Restoration for Remote Sensing: Overviewand Toolbox](https://owuchangyuo.github.io/publications/GRSM)</b> <br> 
-Behnood Rasti\1, <b>Yi Chang</b>\1, Emanuele Dalsasso\1, Loic Denis\1, and Pedram Ghamisi\1.
+Behnood Rasti\^, <b>Yi Chang</b>\^, Emanuele Dalsasso\^, Loic Denis\^, and Pedram Ghamisi\^.
 <i>IEEE Geoscience and Remote Sensing Magzine</i>. <b>GRSM 2021</b> (<i>Equal Contribution<i>).
 
 <b>[Closing the Loop: Joint Rain Generation and Removal via Disentangled Image Translation](https://owuchangyuo.github.io/publications/JRGR)</b> <br> 
