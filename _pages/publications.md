@@ -4,11 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 <b>[Image Restoration for Remote Sensing: Overviewand Toolbox](https://owuchangyuo.github.io/publications/GRSM)</b> <br> 
-Behnood Rasti\^, <b>Yi Chang</b>\^, Emanuele Dalsasso\^, Loic Denis\^, and Pedram Ghamisi\^.
+Behnood Rasti^, <b>Yi Chang</b>^, Emanuele Dalsasso^, Loic Denis^, and Pedram Ghamisi^.
 <i>IEEE Geoscience and Remote Sensing Magzine</i>. <b>GRSM 2021</b> (<i>Equal Contribution<i>).
 
 <b>[Closing the Loop: Joint Rain Generation and Removal via Disentangled Image Translation](https://owuchangyuo.github.io/publications/JRGR)</b> <br> 
-Yuntong Ye, <b>Yi Chang</b>\*, Hanyu Zhou, and Luxin Yan.
+Yuntong Ye, <b>Yi Chang</b>*, Hanyu Zhou, and Luxin Yan.
 <i>IEEE Computer Vision and Pattern Recognition</i>. <b>CVPR 2021</b> (<i>Corresponding Author<i>).
 
 <b>[Category-Aware Aircraft Landmark Detection](https://owuchangyuo.github.io/publications/CALDN)</b> <br> 
@@ -100,7 +100,7 @@ Luxin Yan, Wenshan Liao, <b>Yi Chang</b>, Chunan Luo.
 <i>IEEE Geoscience and Remote Sensing Letter</i>. <b>GRSL 2014</b>. 
 
 <b>[Robust Destriping Method with Unidirectional Total Variation and Framelet Regularization](https://owuchangyuo.github.io/publications/UTVFR)</b><br>
-<b>Yi Chang</b>\^, Houzhang Fang\^, Luxin Yan, Hai Liu. <b>Optics Express 2013</b>, (<i>Equal Contribution<i>). 
+<b>Yi Chang</b>^, Houzhang Fang^, Luxin Yan, Hai Liu. <b>Optics Express 2013</b>, (<i>Equal Contribution<i>). 
 
 <b>[Joint Blind Deblurrring and Destriping For Remote Sensing Image](https://owuchangyuo.github.io/publications/JBDD)</b> <br>
 <b>Yi Chang</b>, Houzhang Fang, Luxin Yan, Hai Liu.
