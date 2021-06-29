@@ -3,10 +3,18 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com.hk/ci
 permalink: /publications/
 author_profile: true
 ---
-<b>[Image Restoration for Remote Sensing: Overviewand Toolbox](https://owuchangyuo.github.io/publications/GRSM)</b> <br> 
+<b>[Image Restoration for Remote Sensing: Overview and Toolbox](https://owuchangyuo.github.io/publications/GRSM)</b> <br> 
 Behnood Rasti^, <b>Yi Chang</b>^, Emanuele Dalsasso^, Loic Denis^, and Pedram Ghamisi^.
 <i>IEEE Geoscience and Remote Sensing Magzine</i>. <b>GRSM 2021</b> (<i>Equal Contribution<i>).
 
+<b>[Skeleton-Aware Network for Aircraft Landmark Detection](https://owuchangyuo.github.io/publications/SALD)</b> <br> 
+Yuntong Ye, <b>Yi Chang</b>, Yi Li, and Luxin Yan
+<i>International Conference on Image and Graphics</i>. <b>ICIG 2021</b>.   
+  
+<b>[Infrared Small UAV Target Detection Based on Residual Image Prediction via Global and Local Dilated Residual Networks](https://owuchangyuo.github.io/publications/DRUNet)</b> <br> 
+Houzhang Fang, Mingjiang Xia, Gang Zhou, <b>Yi Chang</b>, and Luxin Yan
+<i>IEEE Geoscience and Remote Sensing Letter</i>. <b>GRSL 2021</b>. 
+  
 <b>[Closing the Loop: Joint Rain Generation and Removal via Disentangled Image Translation](https://owuchangyuo.github.io/publications/JRGR)</b> <br> 
 Yuntong Ye, <b>Yi Chang</b>*, Hanyu Zhou, and Luxin Yan.
 <i>IEEE Computer Vision and Pattern Recognition</i>. <b>CVPR 2021</b> (<i>Corresponding Author<i>).
