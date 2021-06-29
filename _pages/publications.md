@@ -116,4 +116,4 @@ Hai Liu, Luxin Yan, <b>Yi Chang</b>, Houzhang Fang, Tianxu Zhang.
 <b>[A MAP-based Algorithm for Spectroscopic Semi-blind Deconvolution](https://owuchangyuo.github.io/publications/SSD)</b> <br> 
 Hai Liu, Tianxu Zhang, Luxin Yan, Houzhang Fang, <b>Yi Chang</b>. <b>Analyst 2012</b>. 
 
-[\* denotes equal contribution]
+[\^ denotes equal contribution]
