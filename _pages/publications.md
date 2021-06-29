@@ -56,7 +56,7 @@ Huimin Liu, <b>Yi Chang</b>, Ziqin Li, Sheng Zhong and Luxin Yan.
 <i>IEEE Geoscience and Remote Sensing Letter</i>. <b>GRSL 2019</b>. 
 
 <b>[A Coarse-to-Fine Method For Infrared Small Target Detection](https://owuchangyuo.github.io/publications/CTF)</b> <br>
-<b>Yi Chang</b>\^, Shoukui Yao\^, and Xiaojuan Qin.
+<b>Yi Chang</b>^, Shoukui Yao^, and Xiaojuan Qin.
 <i>IEEE Geoscience and Remote Sensing Letter</i>. <b>GRSL 2019</b> (<i>Equal Contribution<i>).
 
 <b>[Destriping Remote Sensing Image via Low-Rank Approximation and Nonlocal Total Variation](https://owuchangyuo.github.io/publications/LRNTV)</b> <br>
@@ -75,10 +75,10 @@ Shoukui Yao, <b>Yi Chang</b>, Xiaojuan Qin, Yaozong Zhang, Tianxu Zhang.
 <b>Yi Chang</b>, Luxin Yan, Sheng Zhong. <i>IEEE International Conference on Computer Vision</i> <b>ICCV 2017</b>.
 
 <b>[Hyper-Laplacian Regularized Unidirectional Low-rank Tensor Recovery for Multispectral Image Denoising](https://owuchangyuo.github.io/publications/LLRT)</b><br>
-<b>Yi Chang</b>, Luxin Yan, Sheng Zhong. <i>IEEE Computer Vision and Pattern Recognition.</i> <b>CVPR 2017</b>.
+<b>Yi Chang</b>, Luxin Yan, Sheng Zhong. <i>IEEE Computer Vision and Pattern Recognition. </i> <b>CVPR 2017</b>.
 
 <b>[Iteratively Reweighted Blind Deconvolution with Adaptive Regularization Parameter Estimation](https://owuchangyuo.github.io/publications/IRBD)</b><br>
-Houzhang Fang, <b>Yi Chang</b>, Gang Zhou.<b>IEEE Accesss 2017</b>.
+Houzhang Fang, <b>Yi Chang</b>, Gang Zhou. <b>IEEE Accesss 2017</b>.
 
 <b>[Joint Local and Non-local Priors for Ground-based Image Denoising](https://owuchangyuo.github.io/publications/JLNP)</b><br>
 Luxin Yan, Wenshan Liao, <b>Yi Chang</b>, Chunan Luo.
@@ -116,4 +116,4 @@ Hai Liu, Luxin Yan, <b>Yi Chang</b>, Houzhang Fang, Tianxu Zhang.
 <b>[A MAP-based Algorithm for Spectroscopic Semi-blind Deconvolution](https://owuchangyuo.github.io/publications/SSD)</b> <br> 
 Hai Liu, Tianxu Zhang, Luxin Yan, Houzhang Fang, <b>Yi Chang</b>. <b>Analyst 2012</b>. 
 
-[\^ denotes equal contribution]
+[^ denotes equal contribution]
