@@ -14,7 +14,7 @@ redirect_from:
 
 # Recent News
 * Jul 4, 2021. One paper for unsupervised real rain removal has been accepted to ACM Multimedia (ACMMM).
-* Jun 20, 2021. One paper for aircraft landmark detection has been accepted to International Conference on Image and Graphics (ICIG).
+* Jun 20, 2021. One co-author paper for aircraft landmark detection has been accepted to International Conference on Image and Graphics (ICIG).
 * Jun 13, 2021. One co-author paper for infrared small UAV target detection has been accepted to IEEE Geosci. Remote. Sens. Lett.
 * Febuary 28, 2021. One paper for real rain removal has been accepted to IEEE Computer Vision and Pattern Recognition (CVPR).
 * December 15, 2020. The source codes of the ASSTV, LRSID, LLRT, TLR, DMRN, OLRT have been uploaded. Latter, the source codes of HSI-DeNet, TSWEU, SPC would be upload soon.
