@@ -13,7 +13,7 @@ redirect_from:
 * I received my Bachelor’s Degree in automation from University of Electronic Science and Technology of China, Chengdu, China in 2011,  the M.S. degree in pattern recognition and intelligent systems from the Huazhong University of Science and Technology, Wuhan, China, in 2014, and the Ph.D. degree with the School of Artificial Intelligence and Automation in 2019. From 2014 to 2015, I was a Research Assistant with Peking University, Beijing, China. I was a Research Intern with the Tencent Youtu Lab, Shenzhen, China.
 
 # Recent News
-
+* Jul 4, 2021. One paper for unsupervised real rain removal has been accepted to ACM Multimedia (ACMMM).
 * Jun 20, 2021. One paper for aircraft landmark detection has been accepted to International Conference on Image and Graphics (ICIG).
 * Jun 13, 2021. One co-author paper for infrared small UAV target detection has been accepted to IEEE Geosci. Remote. Sens. Lett.
 * Febuary 28, 2021. One paper for real rain removal has been accepted to IEEE Computer Vision and Pattern Recognition (CVPR).
